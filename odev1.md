@@ -2,7 +2,8 @@
 
 **Ders:** AYG110 Tümleşik Geliştirme Ortamları  
 **Konu:** [Linux Komut Satırı Eğitimi — Bölüm 29–30](https://gusanmaz.github.io/bash-tutorial/#home)  
-**Teslim yeri:** [Mergen](https://mergen.anadolu.edu.tr/) — tek satır Docker Hub URL'si
+**Teslim yeri:** [Mergen](https://mergen.anadolu.edu.tr/) — tek satır Docker Hub URL'si  
+**Son teslim tarihi:** 30 Mayıs 2026, 23:59
 
 **Ödev metnine erişim:** Bu içerik Mergen'de de yayınlanır. Mergen bazen Markdown dosyalarını (kod blokları, tablolar vb.) düzgün göstermeyebilir. Aynı metne GitHub üzerinden de ulaşabilirsiniz:
 
@@ -29,7 +30,7 @@ Değerlendirme: Öğrenci numaranızdan port hesaplanır (`8000 + son 2 hane`), 
 | Metin | Sayfada **yalnızca:** `Merhaba AYG110 Tümleşik Geliştirme Ortamları` |
 | Port | `8000 + son 2 hane` → `app.py` ve `Dockerfile EXPOSE` (örn. **8045**) |
 | `THEME` | `-e THEME=light` → açık, `-e THEME=dark` → koyu tema |
-| Teslim | Mergen'e Docker Hub URL'si |
+| Teslim | Mergen'e Docker Hub URL'si — **son tarih: 30 Mayıs 2026, 23:59** |
 
 **PORT değeriniz:**
 
@@ -350,6 +351,8 @@ Her iki durumda da repo **Public** olmalı ve tag **`1.0`** görünmeli.
 
 ### 7) Mergen'e teslim edin
 
+**Son teslim:** 30 Mayıs 2026, 23:59
+
 Ödev açıklaması Mergen'de okunaklı görünmüyorsa: [github.com/gusanmaz/integrated-dev-env/blob/main/odev1.md](https://github.com/gusanmaz/integrated-dev-env/blob/main/odev1.md)
 
 1. [mergen.anadolu.edu.tr](https://mergen.anadolu.edu.tr) → giriş  
@@ -440,4 +443,3 @@ docker stop ayg110-test && docker rm ayg110-test
 ---
 
 *Son güncelleme: 24 Mayıs 2026 - 13:25 *
-
