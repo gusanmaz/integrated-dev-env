@@ -439,5 +439,5 @@ docker stop ayg110-test && docker rm ayg110-test
 
 ---
 
-*Son güncelleme: Mayıs 2026*
+*Son güncelleme: 24 Mayıs 2026 - 13:25 *
 
